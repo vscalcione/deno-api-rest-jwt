@@ -1,0 +1,20 @@
+{
+  "name": "deno-rest-api-jwt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "start": "deno run --allow-net --allow-env app.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vscalcione/deno-api-rest-jwt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vscalcione/deno-api-rest-jwt/issues"
+  },
+  "homepage": "https://github.com/vscalcione/deno-api-rest-jwt#readme"
+}
