@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/vscalcione/deno-api-rest-jwt/issues"
   },
-  "homepage": "https://github.com/vscalcione/deno-api-rest-jwt#readme"
+  "homepage": "https://github.com/vscalcione/deno-api-rest-jwt#readme",
+  "dependencies": {
+    "nanoid": "^3.1.12"
+  }
 }

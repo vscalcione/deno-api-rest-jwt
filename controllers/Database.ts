@@ -1,5 +1,4 @@
 import { Database } from 'https://deno.land/x/denodb/mod.ts';
-
 import { User } from './models/index.ts';
 
 export class DatabaseController {

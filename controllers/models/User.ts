@@ -1,6 +1,6 @@
 import { Model, DATA_TYPES } from 'https://deno.land/x/denodb/mod.ts';
 import { makeJwt, setExpiration, Jose, Payload } from 'https://deno.land/x/djwt/create.ts';
-import nanoid from 'https://deno.land/x/nanoid/mod.ts';
+import { nanoid } from 'https://www.denojs.cn/x/nanoid/mod.ts';
 import * as bcrypt from 'https://deno.land/x/bcrypt/mod.ts';
 
 import { JwtConfig } from '../../middlewares/jwt.ts';
